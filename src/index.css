@@ -1,0 +1,17 @@
+body {
+  height: 100%;
+  text-align: center;
+}
+img {
+  border-radius: 2rem;
+}
+.form-search {
+  padding: 5rem 2.5rem;
+  text-transform: capitalize;
+  border-radius: var(--mainBorderRadius);
+  box-shadow: var(--lightShadow);
+  width: var(--smallWidth);
+  margin: 0 auto;
+  max-width: 40rem;
+  background: linear-gradient(to right, #dd9a5b, #a15336);
+}
